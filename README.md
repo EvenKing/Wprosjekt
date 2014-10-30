@@ -79,7 +79,7 @@ Sluttrapporten skriver vi i Google docs. Det gjør at vi alle kan arbeide med sa
 
 Vi har valgt å bruke Github fordi det er et godt alternativ for større prosjekter der flere personer kan arbeide med samme kode. Vi tror også det vil lettere gi oss mulighet for å dele filene, så flere personer kan arbeide på samme kode uten å overskride hverandres fremgang. 
 
-Github gir oss muligheten til å lagre forandringene som blir gjort og gå tilbake i historikken om det skulle behøves. Det forhindrer også at deler av prosjektet går tapt skulle en eventuell datakrasj ta sted. Det er også meget hendig om noen skulle bli syke eller bli borte, så kan arbeidet likevel fortsette.
+Github gir oss muligheten til å lagre forandringene som blir gjort også gå tilbake i historikken om det skulle behøves. Det forhindrer også at deler av prosjektet går tapt skulle en eventuell datakrasj ta sted. Det er også meget hendig om noen skulle bli syke eller bli borte, så kan arbeidet likevel fortsette.
 
 Men viktigst av alt så får vi mulighet til å strukturere opp arbeidet bedre gjennom muligheten for å kunne dele «To do»-lister og informasjon effektivt.
 
