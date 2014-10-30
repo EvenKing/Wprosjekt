@@ -40,6 +40,7 @@ Det juridiske blir tatt av Yuan. Misbruk av bilder/informasjon, plagiat og klage
 
 <b>5. En milepælsplan over hva som skal være ferdig når </b>
 
+Vi må sette sammen gruppen før 18. oktober, og bestemme oss for en idé før 24. oktober. Forprosjektet må være ferdig innen 30. oktober, og den endelige rapporten før 30. november.
 Vi ønsker å ha en prototype av nettsiden klar innen 20. november. For at dette skal bli mulig er det nødvendig at forsiden er nogen lunde ferdig 10. november, og de andre sidene blir ferdiggjort med jevn fart deretter. Naturligvis vil det også legges til litt og litt på siden.
 Det siste på agendaen er selve evalueringene av kebabrestauranter og deres kebab-produkter. Dette vil bli gjort i bakgrunn av alt det andre arbeidet. Evalueringene vil bli notert med det samme, men ikke implementert før de fleste funksjonene allerede er satt på plass.
 Det er vårt mål at hele nettsiden, med funksjoner og evalueringer, er oppe og brukbar før 30. november, som tross alt er fristen for levering av den ferdige rapporten og nettsiden.
